@@ -1,9 +1,6 @@
 package org.example.Service;
 
-import org.example.Dto.ResponseDto;
-import org.example.Dto.TopUpDto;
-import org.example.Dto.TransactionCreateDto;
-import org.example.Dto.TransactionResponseDto;
+import org.example.Dto.*;
 import org.example.Entity.ServiceEntity;
 import org.example.Entity.TransactionHistoryEntity;
 import org.example.Entity.UserBalanceEntity;
@@ -117,9 +114,15 @@ public class TransactionService {
     public ResponseEntity<ResponseDto> getTransactionHistory(Integer limit, Integer offset) {
         ResponseDto response = new ResponseDto();
         List<TransactionResponseDto> transaction = transactionRepository.getTransactionHistory(limit, offset);
+
+        ResponseTransactionHistoryDto dto = new ResponseTransactionHistoryDto();
+        dto.setOffset(offset);
+        dto.setLimit(limit);
+        dto.setRecords(transaction);
+
         response.setStatus(HttpStatus.OK.value());
         response.setMessage("success get transaction");
-        response.setData(transaction);
+        response.setData(dto);
         return new ResponseEntity<>(response, HttpStatus.OK);
     }
 
