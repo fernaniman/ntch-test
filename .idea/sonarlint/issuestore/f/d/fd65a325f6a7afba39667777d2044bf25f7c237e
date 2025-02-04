@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®¼·»úÿÿÿÿ8˜µ¿€Í2
+z	java:S116
+"YRename this field "invoice_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùî³ùÿÿÿÿ8›µ¿€Í2
+x	java:S116"WRename this field "service_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å­‘­øÿÿÿÿ8›µ¿€Í2
+s	java:S116"WRename this field "service_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò›”¼8›µ¿€Í2
+|	java:S116"[Rename this field "transaction_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»§·úÿÿÿÿ8›µ¿€Í2
+s	java:S116"WRename this field "total_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôªœ¼8›µ¿€Í2
+v	java:S116"URename this field "created_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±“¡ıüÿÿÿÿ8¶ÇÅ€Í2

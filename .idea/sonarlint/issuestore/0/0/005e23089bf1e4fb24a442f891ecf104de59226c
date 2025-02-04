@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”µ¥Ğÿÿÿÿÿ8ƒ¹÷àÌ2
+g
+java:S2259v"EA "NullPointerException" could be thrown; "getKey()" can return null.(ü‘–ùÿÿÿÿ8’¹÷àÌ2
+g
+java:S22597"EA "NullPointerException" could be thrown; "getKey()" can return null.(ü‘–ùÿÿÿÿ8£ÒùàÌ2
+g
+java:S2259L"EA "NullPointerException" could be thrown; "getKey()" can return null.(‚êğäøÿÿÿÿ8’¹÷àÌ2
+g
+java:S2259a"EA "NullPointerException" could be thrown; "getKey()" can return null.(ü‘–ùÿÿÿÿ8’¹÷àÌ2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8“¹÷àÌ2
+X
+java:S1874"6Remove this use of "queryForObject"; it is deprecated.(ÊÂ¦ªşÿÿÿÿ8¢¹÷àÌ2
+T
+java:S1874ˆ"6Remove this use of "queryForObject"; it is deprecated.(Áöª¤8£¹÷àÌ2
+Y
+java:S1874‘"6Remove this use of "queryForObject"; it is deprecated.(ÊÂ¦ªşÿÿÿÿ8¤¹÷àÌ2

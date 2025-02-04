@@ -1,0 +1,26 @@
+
+j
+java:S1192g"MDefine a constant instead of duplicating this literal "total_amount" 3 times.(‡Œ¢Œ8ğãğ‚Í2
+
+java:S1488E"_Immediately return this expression instead of assigning it to the temporary variable "balance".(Åûàâşÿÿÿÿ8ñãğ‚Í2
+ˆ
+java:S1488ˆ"eImmediately return this expression instead of assigning it to the temporary variable "invoiceNumber".(­ÚĞ©øÿÿÿÿ8ñãğ‚Í2
+J
+java:S54112"(Use a primitive boolean expression here.(Æš³¼ùÿÿÿÿ8ñãğ‚Í2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”µ¥Ğÿÿÿÿÿ8òãğ‚Í2
+b
+java:S2259]"EA "NullPointerException" could be thrown; "getKey()" can return null.(ô£§è8‚äğ‚Í2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‚äğ‚Í2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‚äğ‚Í2
+X
+java:S1874!"6Remove this use of "queryForObject"; it is deprecated.(âÕŞÙøÿÿÿÿ8…äğ‚Í2
+R
+java:S1874a"6Remove this use of "queryForObject"; it is deprecated.(Ö“öO8Šäğ‚Í2
+S
+java:S1874q"6Remove this use of "queryForObject"; it is deprecated.(ÛÆ¾¾8Œäğ‚Í2
+O
+java:S1874x"-Remove this use of "query"; it is deprecated.(· œÿÿÿÿÿ8Œäğ‚Í2
+Y
+java:S1874ˆ"6Remove this use of "queryForObject"; it is deprecated.(­ÚĞ©øÿÿÿÿ8äğ‚Í2

@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šœ™¨ûÿÿÿÿ8Ž†±àÌ2
+R
+java:S1874"0Remove this use of "signWith"; it is deprecated.(õ‘·ùþÿÿÿÿ8³†±àÌ2
+K
+java:S1874-".Remove this use of "parser"; it is deprecated.(âÉ¥Ô8¶†±àÌ2
+R
+java:S1874-"5Remove this use of "setSigningKey"; it is deprecated.(âÉ¥Ô8¶†±àÌ2
+P
+java:S18747".Remove this use of "parser"; it is deprecated.(Â©èæûÿÿÿÿ8¹†±àÌ2
+W
+java:S18747"5Remove this use of "setSigningKey"; it is deprecated.(Â©èæûÿÿÿÿ8¹†±àÌ2
+P
+java:S1874=".Remove this use of "parser"; it is deprecated.(Â©èæûÿÿÿÿ8¼†±àÌ2
+W
+java:S1874="5Remove this use of "setSigningKey"; it is deprecated.(Â©èæûÿÿÿÿ8¼†±àÌ2
+D
+java:S1068"'Remove this unused "log" private field.(ÿ×ì«8¾†±àÌ2

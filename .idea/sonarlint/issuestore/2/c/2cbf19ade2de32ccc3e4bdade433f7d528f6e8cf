@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òØ¶8ë†‚ßÌ2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ñ†‚ßÌ2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÂÅ¤ÿÌ2
+f
+java:S1128"IRemove this unused import 'org.example.Repository.TransactionRepository'.(£˜Ä«8Í¨­ÿÌ2
+D
+java:S1068"'Remove this unused "log" private field.(àµ®ú8õ†‚ßÌ2

@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òØ¶8¹ıÅ‚Í2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8½ıÅ‚Í2
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8º°ı‚Í2
+B
+java:S1068"'Remove this unused "log" private field.(®¡l8ÀıÅ‚Í2

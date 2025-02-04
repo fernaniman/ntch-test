@@ -1,0 +1,16 @@
+
+s
+java:S1192"PDefine a constant instead of duplicating this literal "User not found." 3 times.(•½Ôùÿÿÿÿ8û«àÌ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œä”ûÿÿÿÿ8ƒ«àÌ2
+i
+java:S2259¼"FA "NullPointerException" could be thrown; "fileName" is nullable here.(£ï†©ÿÿÿÿÿ8±«àÌ2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8²«àÌ2
+_
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ8²«àÌ2
+_
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ8²«àÌ2
+_
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ8²«àÌ2
+D
+java:S1075Ò"&Remove this hard-coded path-delimiter.(ÃáŠù8à«àÌ2
