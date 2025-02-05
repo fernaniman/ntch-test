@@ -264,3 +264,6 @@ w
 G.idea/sonarlint/issuestore/7/0/708826476f1794c6720470f2de7eef03bc8cf2e4,d\a\da1301bec19fd3f30e0687bb6d90b8e3daf2bbff
 w
 G.idea/sonarlint/issuestore/7/1/715ffce845902ff72caaf8bbd5dc464d627f0ef6,4\d\4db6e5e8518760534fee53581866dca115970cac
+:
+
+dockerfile,5\5\558c49b604560afd1841f2a7b49e2f60bd1f99b3
